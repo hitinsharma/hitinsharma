@@ -1,11 +1,21 @@
 <h1 align="center">Hi 👋, I'm Hitin Sharma</h1>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
+<h3 align="center">A Passionate Frontend Web Developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hitinsharma&label=Profile%20views&color=0e75b6&style=flat" alt="hitinsharma" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hitinsharma" alt="hitinsharma" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/hitinsharma7" target="blank"><img src="https://img.shields.io/twitter/follow/hitinsharma7?logo=twitter&style=for-the-badge" alt="hitinsharma7" /></a> </p>
 
 - 🔭 I’m currently working on [Bhojan Vitran](https://hitin.tech/project2/index.html)
 
-- 🌱 I’m currently learning **DSA, Cloud Computing, DevOps and Algorithms**
+- 🌱 I’m currently learning **DSA, DevOps, Cloud Computing and Algorithms**
+
+- 👨‍💻 All of my projects are available at [https://www.hitin.tech/](https://www.hitin.tech/)
+
+- 📫 How to reach me **hitinsharma@yahoo.com**
+
+- 📄 Know about my experiences [https://www.hitin.tech/profile.pdf](https://www.hitin.tech/profile.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,6 +23,7 @@
 <a href="https://linkedin.com/in/hitin-sharma-431a8723b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hitin-sharma-431a8723b/" height="30" width="40" /></a>
 <a href="https://fb.com/hitin.sharma.33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hitin.sharma.33" height="30" width="40" /></a>
 <a href="https://instagram.com/iamhitinsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamhitinsharma" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/cha/uchw_a3tine1dmyt32ohubuw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cha/uchw_a3tine1dmyt32ohubuw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,3 +32,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hitinsharma&show_icons=true&locale=en&layout=compact" alt="hitinsharma" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hitinsharma&show_icons=true&locale=en" alt="hitinsharma" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hitinsharma&" alt="hitinsharma" /></p>
