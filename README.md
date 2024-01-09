@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/hitin-sharma-431a8723b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hitin-sharma-431a8723b/" height="30" width="40" /></a>
 <a href="https://fb.com/hitin.sharma.33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hitin.sharma.33" height="30" width="40" /></a>
 <a href="https://instagram.com/iamhitinsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamhitinsharma" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cha/uchw_a3tine1dmyt32ohubuw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cha/uchw_a3tine1dmyt32ohubuw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCHW_a3tiNE1DMYt32oHubUw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cha/uchw_a3tine1dmyt32ohubuw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
