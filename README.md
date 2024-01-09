@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Bhojan Vitran](https://hitin.tech/project2/index.html)
 
-- 🌱 I’m currently learning **DSA, DevOps, Cloud Computing and Algorithms**
+- 🌱 I’m currently learning **DSA, DevOps, Cloud Computing and Algorithms.**
 
 - 👨‍💻 All of my projects are available at [https://www.hitin.tech/](https://www.hitin.tech/)
 
