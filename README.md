@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitinsharma&label=Profile%20views&color=0e75b6&style=flat" alt="hitinsharma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hitinsharma" alt="hitinsharma" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/hitinsharma7" target="blank"><img src="https://img.shields.io/twitter/follow/hitinsharma7?logo=twitter&style=for-the-badge" alt="hitinsharma7" /></a> </p>
 
 - 🔭 I’m currently working on [Bhojan Vitran](https://hitin.tech/project2/index.html)
