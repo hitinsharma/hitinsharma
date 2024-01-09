@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Bhojan Vitran](https://hitin.tech/project2/index.html)
 
-- 🌱 I’m currently learning **DSA, Cloud**
+- 🌱 I’m currently learning **DSA, Cloud Computing, DevOps and Algorithms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
