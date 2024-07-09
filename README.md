@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hitinsharma@yahoo.com**
 
-- 📄 Know about my experiences [https://www.hitin.tech/profile.pdf](https://www.hitin.tech/profile.pdf)
+- 📄 Know about my experiences [https://www.hitin.tech/profile](https://www.hitin.tech/resume/1/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
