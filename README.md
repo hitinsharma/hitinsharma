@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/hitinsharma7" target="blank"><img src="https://img.shields.io/twitter/follow/hitinsharma7?logo=twitter&style=for-the-badge" alt="hitinsharma7" /></a> </p>
 
-- 🔭 I’m currently working on [Bhojan Vitran](https://hitin.tech/project2/index.html)
+- 🔭 I’m currently working on [Bhojan Vitran](https://hitin.site/project2/index.html)
 
 - 🌱 I’m currently learning **DSA, DevOps, Cloud Computing and Algorithms.**
 
-- 👨‍💻 All of my projects are available at [https://www.hitin.tech/](https://www.hitin.tech/)
+- 👨‍💻 All of my projects are available at [https://www.hitin.site/](https://www.hitin.site/)
 
 - 📫 How to reach me **hitinsharma@yahoo.com**
 
-- 📄 Know about my experiences [https://www.hitin.tech/profile](https://www.hitin.tech/resume/1/)
+- 📄 Know about my experiences [https://www.hitin.site/profile](https://www.hitin.site/resume/1/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
